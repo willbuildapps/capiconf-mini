@@ -1,0 +1,1 @@
+# capiconf-mini
